@@ -1,0 +1,28 @@
+_repo: Hunter-s-MarjoryA-Story-for-Girls_20258
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20258-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Clarke, Margaret Bruce
+    gutenberg_agent_id: '9190'
+    url: http://www.gutenberg.org/2009/agents/9190
+description: ''
+gutenberg_issued: '2007-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Scotland -- Juvenile fiction'
+- !lcsh 'Family -- Scotland -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Domestic fiction'
+title: 'Hunter''s Marjory
+
+  A Story for Girls'
+url: http://www.gutenberg.org/ebooks/20258
